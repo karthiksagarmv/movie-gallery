@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #161616;
+  padding: 20px;
+  color: #D4D4D4;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/**
+  align-items : flex-end and flex-start aligns movies nicely
+*/
+.Movies {
+  margin-left: 70px;
+  text-align: center;
+  align-self: center;
+  align-items: flex-end, flex-start;
+  display: inline-flex;
+  flex-wrap: wrap;
+}
+
+.Add-Movies {
+  text-align: center;
+}
+ 
+.Add-Movies button {
+  font-size: 16px;
+  padding: 8px;
+  margin: 0 10px 30px 10px;
+}
+ 
+.Movie {
+  padding: 5px 25px 10px 25px;
+  max-width: 20%;
+  background-color: #E0E0E0;
+  margin: 5px;
+}
+
+.Movie h1,h2 {
+  font-family: "Lucida Console", Monaco, monospace;
+}
