@@ -20,8 +20,9 @@ The data to be displayed is saved in JSON Array.
   .  
 ]  
 
-This is simple project involving three components -
-**Header
-**Movie ( New component is created and rendered for every item in JSON Array )
-**App ( The root Component :) )
+This is simple project involving three components -  
+
+**Header**  
+**Movie ( New component is created and rendered for every item in JSON Array )**  
+**App ( The root Component :) )**  
 
