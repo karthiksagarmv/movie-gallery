@@ -26,3 +26,5 @@ This is simple project involving three components -
 **Movie ( New component is created and rendered for every item in JSON Array )**  
 **App ( The root Component :) )**  
 
+
+![Movie Gallery in Action](https://github.com/karthiksagarmv/movie-gallery/blob/master/Screenshots/image1.PNG)
