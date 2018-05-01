@@ -6,19 +6,19 @@ A single page displaying card of movie data loaded from JSON.
 
 The data to be displayed is saved in JSON Array.  
 
-**const movies = [
-  {
-      title:"",
-      description:"",
-      poster:"",
-      year:""
-  },
-  {
-  }
-  .
-  .
-  .
-]
+**const movies = [  
+  {  
+      title:"",  
+      description:"",  
+      poster:"",  
+      year:""  
+  },  
+  {  
+  }  
+  .  
+  .  
+  .  
+]  
 
 This is simple project involving three components -
 **Header
