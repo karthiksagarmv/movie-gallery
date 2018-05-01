@@ -25,6 +25,10 @@ The data to be displayed is saved in JSON Array.
       .  
     ]  
 
+      The data flow =>  
+
+**Movies.js**  => **AppComponent** ( State ) => Passed as props to **Movie Component.**  
+**Simple one :)
 
 **Super Heroes in Action**
 **Yeahhhh!!  
