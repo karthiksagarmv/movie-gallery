@@ -43,5 +43,3 @@ The data to be displayed is saved in JSON Array.
 
 
 
-
-![Movie Gallery in Action](https://github.com/karthiksagarmv/movie-gallery/blob/master/Screenshots/image3.PNG)
