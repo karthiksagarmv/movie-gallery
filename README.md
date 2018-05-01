@@ -27,4 +27,18 @@ This is simple project involving three components -
 **App ( The root Component :) )**  
 
 
-![Movie Gallery in Action](https://github.com/karthiksagarmv/movie-gallery/blob/master/Screenshots/image1.PNG)
+**Super Heroes in Action**
+**Yeahhhh!!  
+
+
+![Movie Gallery in Action](https://github.com/karthiksagarmv/movie-gallery/blob/master/Screenshots/image1.PNG)  
+
+
+
+
+![Movie Gallery in Action](https://github.com/karthiksagarmv/movie-gallery/blob/master/Screenshots/image2.PNG)  
+
+
+
+
+![Movie Gallery in Action](https://github.com/karthiksagarmv/movie-gallery/blob/master/Screenshots/image3.PNG)
